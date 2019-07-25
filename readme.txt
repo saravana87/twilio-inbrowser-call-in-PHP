@@ -1,7 +1,7 @@
 App :  Twilio Call
 
 Settings
-Set ur Twilio account Key, token and number in the .env file 
+Set up Twilio account Key, token and number in the .env file 
 
 Run the command
 
